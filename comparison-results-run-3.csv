@@ -1,0 +1,4 @@
+Run,Controller,Throughput_Mbps,Average_Delay_ms,Packet_Loss_Percentage,Jain_Fairness
+3,Fixed,46.1988,6.96649,0.065538,1
+3,Threshold,47.6489,37.5169,0.0476661,0.986599
+3,AI,48.3928,17.5664,0.041721,0.999993
