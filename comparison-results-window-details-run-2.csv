@@ -1,0 +1,4 @@
+Run,Controller,Window_Start_s,Window_End_s,Sender1_Throughput_Mbps,Sender2_Throughput_Mbps,Sender3_Throughput_Mbps,Aggregate_Throughput_Mbps,Jain_Fairness
+2,Fixed,2,10,15.4086,15.4002,15.4192,46.228,1
+2,Threshold,2,10,18.1302,16.3186,16.4922,50.941,0.997695
+2,AI,2,10,15.6843,15.719,15.7263,47.1296,0.999999
